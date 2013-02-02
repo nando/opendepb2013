@@ -10,7 +10,7 @@
 
 <img class="left" src="images/pb_carlos.jpg" alt="Pedro Bernardo y Puerto del Pico"/>
 
-* Haverá um **jantar inaugural** no Sábado 28 e uma **entrega de prémios** na terça-feira dia 1 **com comida e bebida** à discrição.
+* Haverá um **jantar e uma entrega de prémios** na dia 4.
 * **Os três melhores** classificados **em cada categoria receberão um troféu** acompanhado de um presente típico da zona.
 * **A responsabilidade e segurança de cada piloto estarão a cargo de cada um** (como quando vamos voar normalmente). Para participar será **imprescindível** apresentar o correspondente **seguro de responsabilidade civil** (contra terceiros) que cubra a actividade de voo livre em asa delta.
 * **O transporte das asas e as recolhas serão da responsabilidade de cada um dos participantes**; se precisarem de condutores, a organização poderá providenciá-los por um preço razoável (veja mais [aqui](alojamientos.html "Alojamiento y conductores")).
