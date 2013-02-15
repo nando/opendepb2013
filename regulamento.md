@@ -19,4 +19,4 @@
 {% include account.html %}
 
 * Se pretendes participar, envia-nos por favor quanto antes os teus dados através do [formulário de inscrição](inscripcion.html).
-* Para qualquer dúvida ou sugestão podes utilizar o correio electrónico do fórum que criámos para a prova: [opendeltietar@googlegroups.com](https://groups.google.com/group/opendeltietar?hl=es).
+* Para qualquer dúvida ou sugestão podes utilizar o correio electrónico do fórum que criámos para a prova: [{{site.email}}](https://groups.google.com/group/opendeltietar?hl=es).

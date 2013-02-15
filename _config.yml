@@ -1,5 +1,6 @@
 root_desc: Open FAI de Ala Delta de Pedro Bernardo
 description: Página del Open de Ala Delta de Pedro Bernardo (Ávila)
+email: opendeltietar@googlegroups.com
 server: true
 auto: true
 destination: _site/open
