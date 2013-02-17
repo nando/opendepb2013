@@ -8,7 +8,7 @@
 
 [Nesta ligação](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Regulamento do I Open de Asa Delta de Pedro Bernardo") têm à vossa disposição o [Regulamento do I Open de Asa Delta de Pedro Bernardo](downloads/Reglamento_I_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf "Regulamento do I Open de Asa Delta de Pedro Bernardo").
 
-<img class="left" src="images/pb_carlos.jpg" alt="Pedro Bernardo y Puerto del Pico"/>
+<img class="right" src="images/carlos_y_la_escusa.jpg" alt="Despegue oeste de Pedro Bernardo (autor Carlos 'parapen')"/>
 
 * Haverá um **jantar e uma entrega de prémios** na dia 4.
 * **Os três melhores** classificados **em cada categoria receberão um troféu** acompanhado de um presente típico da zona.
