@@ -237,14 +237,20 @@ form#new_pilot fieldset select {
 
 }
 
-form#new_pilot fieldset div.field label.error {
+form#new_pilot div.field label.error {
   display: none!important;
 }
-form#new_pilot fieldset div.field .error {
+
+form#new_pilot div.field .error {
   margin-top: 2px;
   border: 1px red solid;
   background-color: #ffa1b1;
 }
+
+.error {
+  color: #E20000;
+}
+
 h3 {
   margin-top: 0.6em;
   margin-bottom: 0.3em;

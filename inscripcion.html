@@ -106,6 +106,7 @@
   <script src="javascript/jquery.validate.min.js" type="text/javascript"></script>
   <script type="text/javascript">
     $(window).load(function(){
+      $.extend(jQuery.validator.messages, {required: "Este campo es obligatorio."});
       var form = $('#new_pilot');
       $('input#pilot_name', form).focus();
       form.validate();
