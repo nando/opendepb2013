@@ -6,7 +6,7 @@ section: presentacion
 
 <h2>Presentación <a href="apresentacao.html">Apresentação</a></h2>
 
-<img class="right" src="images/mirando_girando_almanzor.jpg" alt="Foto de alas girando con el Almanzor en el fondo y un observador" title="Observador, dos alas girando, y el Almanzor al fondo"/>
+<img class="right" src="images/carlos_y_la_escusa.jpg" alt="Despegue oeste de Pedro Bernardo (autor Carlos 'parapen')"/>
 
 Hola a todo el mundo desde Pedro Bernardo, un fantástico lugar para la práctica del vuelo libre situado en el Sistema Central de la Península Ibérica, en la cara sur de **La Sierra de Gredos** la cual se eleva sobre un precioso valle bañado por el río Tietar.
 
