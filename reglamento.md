@@ -22,6 +22,6 @@ En [este enlace](downloads/Reglamento_II_Open_de_Ala_Delta_de_Pedro_Bernardo.pdf
 
 * Si te apetece participar, por favor, mándanos cuanto antes tus datos por medio del [formulario de inscripción](inscripcion.html).
 * Para cualquier consulta concreta podéis contactar con la organización del Open:
-  * **Armando Cerrada** (director): teléfono **686 136 994**, correo-e **kadatan@hotmail.com**
-  * **Julio López** (juez y coordinador): teléfono **606 824 323**, correo-e **juliobomber@gmail.com**
+  * **Armando Cerrada** (director): teléfono **686 136 994**, correo-e **armando@flytietar.com**
+  * **Julio López** (juez y coordinador): teléfono **606 824 323**, correo-e **julio@flytietar.com**
 * Para cualquier duda o sugerencia de carácter más general podéis utilizar el correo electrónico del foro que hemos habilitado para la prueba [{{site.email}}](https://groups.google.com/group/opendeltietar?hl=es).
