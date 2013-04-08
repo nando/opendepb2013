@@ -10,9 +10,9 @@ Como novedad este año hemos dado de alta el evento en [LiveTrack24](livetrack24
 <img src="images/livetrack24_on_ge.jpg" alt="Captura de pantalla de Google Earth mostrando los tracks de los pilotos en tiempo real" title="Ejemplo de visualización en 3D con Google Earth"/>
 </div>
 
-Para enviar la posición es necesario tener un teléfono móvil moderno (un "smart phone") con GPS, pero para aquellos pilotos que estén interesados la organización dispondrá de varios [dispositivos de rastreo o "trackers"](http://www.livetrack24.com/clients/livebox24).
+Para enviar la posición es necesario disponer de un teléfono móvil moderno (un "smart phone") con GPS y tarifa de datos. Adicionalmente la organización contará con varios [dispositivos de rastreo o "trackers"](http://www.livetrack24.com/clients/livebox24) que estarán a disposición de los pilotos que estén interesados y no tengan un teléfono válido (o prefieran no usarlo).
 
-Este año nuestro objetivo sobre todo es tener una toma de contacto con la tecnología, ya que las ventajas de utilizar el seguimiento en tiempo real en una competición de ala delta son indiscutibles:
+Este año nuestro objetivo es tener una primera toma de contacto con esta tecnología, ya que las ventajas de utilizar el seguimiento en tiempo real en una competición de ala delta son indiscutibles:
 
 * **mejora la seguridad**: para los organizadores conocer en todo momento la posición de los pilotos puede reducir notablemente el tiempo necesario para asistir a un piloto accidentado,
 * **mejora la comodidad**: los conductores tienen más información para planificar la recogida de varios pilotos de forma más eficiente,
