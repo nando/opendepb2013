@@ -18,6 +18,6 @@ Este año nuestro objetivo es tener una primera toma de contacto con esta tecnol
 * **mejora la comodidad**: los conductores tienen más información para planificar la recogida de varios pilotos de forma más eficiente,
 * **mejora la difusión**: amigos o aficionados a nuestro deporte pueden por primera vez ver la evolución en directo de cada prueba.
 
-Los pilotos interesados deberán darse de alta en [livetrack24.com](livetrack24.com) y mandarnos un correo con su **nombre de usuario** a **opendeltietar@googlegroups.com**, indicándonos además si desea que le facilitemos un dispositivo de rastreo o si, por el contrario, dispone de uno propio (para los dispositivos facilitados por la organización el piloto deberá utilizar su propia tarjeta SIM).
+Los pilotos interesados deberán darse de alta en [livetrack24.com](livetrack24.com/register) y mandarnos un correo con su **nombre de usuario** a **opendeltietar@googlegroups.com**, indicándonos además si desea que le facilitemos un dispositivo de rastreo o si, por el contrario, dispone de uno propio (para los dispositivos facilitados por la organización el piloto deberá utilizar su propia tarjeta SIM).
 
 Gracias por vuestra colaboración y un saludo.
