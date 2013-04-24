@@ -3,7 +3,7 @@ layout: post
 title: Abierta la inscripción para el II Open de Pedro Bernardo
 ---
 
-<img class="right" src="images/mirando_girando_almanzor.jpg" alt="Foto de alas girando con el Almanzor en el fondo y un observador" title="Observador, alas girando y Almanzor (autor Luis Molina)"/>
+<img class="right" src="images/mirando_girando_almanzor.jpg" alt="Foto de alas girando con el Almanzor en el fondo y un observador" title="Observador, alas girando y Almanzor (autor Luis Cotilla - www.imagstudio.com)"/>
 Ya está abierta [la inscripción para el II Open de Pedro Bernardo](http://segundo.opendepb.com/inscripcion.html). Este año se celebrará **entre el miércoles 1 y el sábado 4 de mayo**, con una prueba adicional **el domingo 5 (Torneo de La Espinita) fuera de competición**, para que aquellos que vengan desde más lejos puedan volver a casa con más tiempo.
 
 La cuota de inscripción la mantenemos en **30€**.
