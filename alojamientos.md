@@ -12,6 +12,7 @@
 
   En la zona existen multitud de casas rurales y campings. La mayor parte de la oferta existente en **Pedro Bernardo** la podéis encontrar en <a target="_blank" href="http://clubdevuelopb.com/alojamiento.html">la página de <em>Alojamiento</em> del Club de Vuelo y Montaña</a>.
 
-  En Pedro Bernardo, las casas rurales de Navalasolana han preparado [una oferta para nosotros durante las fechas en las que se celebra el Open](http://clubdevuelopb.com/img/OFERTA-openAlaDeltaNAVALASOLANA-I-II.pdf).
+  En Pedro Bernardo, las casas rurales de **Navalasolana** han preparado [una oferta para nosotros durante las fechas en las que se celebra el Open](http://clubdevuelopb.com/img/OFERTA-openAlaDeltaNAVALASOLANA-I-II.pdf). También durante dicha semana el **Camping Balcón del Tiétar** de Pedro Bernardo ofrece precios especiales para voladores.
 
+  
 <div class="clearer">&nbsp;</div>
