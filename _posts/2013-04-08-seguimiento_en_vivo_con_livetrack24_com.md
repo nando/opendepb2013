@@ -22,7 +22,7 @@ Para enviar al servidor nuestra posición mientras volamos existen varias opcion
 
 * otra opción es que el GPS con el que volamos envíe de su posición al móvil (por BlueTooth normalmente), y que en el móvil instalemos el programa que le corresponda de [los existentes en la página de LiveTrack24](http://www.livetrack24.com/clients/index). Parece ser que a día de hoy esta combinación es más fácil hacerla funcionar con teléfonos antiguos (por ejemplo nos han comentado que el Compeo+/6030 con un Nokia funciona sin problemas).
 
-* el Flymaster Live es un vario/GPS con conectividad a las redes de telefonía móvil. Como su propio nombre indica está especialmente preparado para esta función, lo que hace que sea especialmente simple hacerlo funcionar correctamente.
+* el Flymaster Live es un vario/GPS con conectividad a las redes de telefonía móvil. Como su propio nombre indica está especialmente preparado para esta función, lo que hace que sea bastante sencillo hacerlo funcionar correctamente.
 
 * por último la organización contará con varios [dispositivos de rastreo o "trackers"](http://www.livetrack24.com/clients/livebox24) que estarán a disposición de los pilotos que estén interesados y que no tengan ninguna de las opciones anteriores.
 
