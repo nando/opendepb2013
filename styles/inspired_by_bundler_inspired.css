@@ -97,12 +97,13 @@ nav li a{
   font-weight: normal;
   display: block;
 }
-nav li.facebook{
-  padding-top: 10px;
+nav li.facebook, nav li.twitter {
+  padding-top: 5px;
 }
-nav li.facebook a{
+nav li.facebook a, nav li.twitter a{
   padding:0px 19px 0 18px;
   line-height:0.6em;
+  text-align: center;
 }
 nav li.active {
   background:url("../images/section_bg.png");
