@@ -3,7 +3,7 @@ layout: post
 title: GOOOOOOOOOOOL!!!
 ---
 
-Se ha hecho de rogar, pero por fin el valle nos ha regalado un gran dia de vuelo. En la prueba de ayer volaron todos los pilotos inscritos (exepto uno) y once pilotos llegaron a gol, Daniel Mota el primero con un tiempo de dos horas y seis minutos, seguido de Blay Jr. y Ako Abollado. Carlos Punet saliendo en la ultima ventana completo la prueba en una hora y 51 minutos, quedando con la penalizacion de ala rigida en sexta posicion.
+Se ha hecho de rogar, pero por fin el valle nos ha regalado un gran dia de vuelo. En la prueba de ayer volaron todos los pilotos inscritos (excepto uno) y once pilotos llegaron a gol. Daniel Mota el primero con un tiempo de dos horas y seis minutos, seguido de Blay Jr. y Ako Abollado. Carlos Punet saliendo en la ultima ventana completo la prueba en una hora y 51 minutos, quedando con la penalizacion de ala rigida en sexta posicion.
 
 La primera baliza en el vertice geodesico de La Escusa (a la altura de La Adrada) fue el punto critico debido al viento de norte y muchos pilotos se quedaron muy cerca sin llegar a marcarla (por seguridad la proxima vez que tengamos condiciones similares le pondremos un radio mas amplio).
 
