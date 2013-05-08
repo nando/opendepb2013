@@ -20,4 +20,4 @@ Sobre los trofeos:
 
 * al igual que el año pasado han sido **tallados por Julio Sancho**, y en esta ocasión **decorados por Pati de Casavieja**. Muchas gracias a los dos.
 
-* cada trofeo es un boomerang totalmente operativo que representa por un lado la forma de un ala delta, y por otro la forma de uno de los vuelos de cross más clásicos del valle: Pedro Bernardo - Vértice Geodésico - La Iglesuela.
+* cada trofeo es un boomerang totalmente operativo que representa por un lado la forma de un ala delta, y por otro la forma de uno de los vuelos clásicos del valle: Pedro Bernardo - Mijares - La Iglesuela.
