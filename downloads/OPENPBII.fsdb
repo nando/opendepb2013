@@ -991,7 +991,7 @@
           <FsTaskDistToTp tp_no="5" distance="70.976" />
         </FsTaskScoreParams>
       </FsTask>
-      <FsTask id="3" name="TERCERA MANGA" tracklog_folder="opb2_tracks_task3">
+      <FsTask id="3" name="TERCERA MANGA" tracklog_folder="Z:\home\nando\src\opendepb2013\tracks\task3">
         <FsScoreFormula id="GAP2011" use_distance_points="1" use_time_points="1" use_departure_points="0" use_leading_points="1" use_arrival_position_points="1" use_arrival_time_points="0" min_dist="5" nom_dist="40" nom_time="1.5" nom_goal="0.2" day_quality="0" time_points_if_not_in_goal="0.8" jump_the_gun_factor="0" use_1000_points_for_max_day_quality="0" normalize_1000_before_day_quality="0" time_validity_based_on_pilot_with_speed_rank="1" bonus_gr="0" no_pilots_in_goal_factor="1" task_stopped_factor="1" />
         <FsTaskDefinition task_state="REGULAR" goal_altitude="0" score_back_time="0" cancel_reason="" stop_time="2013-05-04T21:09:00+02:00" ss="2" es="6" goal="CIRCLE" groundstart="0">
           <FsTurnpoint id="D01125" lat="40.25547" lon="-4.9062" radius="400" open="2013-05-04T13:45:00+02:00" close="2013-05-04T16:45:00+02:00" />
