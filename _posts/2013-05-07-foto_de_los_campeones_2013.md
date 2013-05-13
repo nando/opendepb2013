@@ -16,8 +16,12 @@ De izquierda a derecha con trofeo en mano, **Daniel Martín Mata** (subcampeón 
     <a href="http://www.luiscotilla.com">www.luiscotilla.com</a>
   </p>
 </div>
+
+Clasificación definitiva:
+* [Clase Open](/resultados/general_open.html)
+* [Clase Sport](/resultados/general_sport.html)
+
+
 Sobre los trofeos:
-
 * al igual que el año pasado han sido **tallados por Julio Sancho**, y en esta ocasión **decorados por Pati de Casavieja**. Muchas gracias a los dos.
-
 * cada trofeo es un boomerang totalmente operativo que representa por un lado la forma de un ala delta, y por otro la forma de uno de los vuelos clásicos del valle: Pedro Bernardo - Mijares - La Iglesuela.
