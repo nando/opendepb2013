@@ -564,10 +564,6 @@ px      68    160    252    344    436    528    620    712    */
     font-size:30px;
   }
   
-  article img {
-    max-width:50%;
-  }
-  
   h2 span.date {
     float:none;
     color:#333;
