@@ -5,7 +5,7 @@ Dir.glob('images/gallery/*.JPG') do |rb_file|
 end
 imgs.sort.each do |image|
   next if image == '0000'
-  puts '    <li><img src="" rel="' + image + '" \></li>'
+  puts '    <li><img src="" rel="' + image + '" /></li>'
 end
 puts '  </ul>'
 puts '</div>'
